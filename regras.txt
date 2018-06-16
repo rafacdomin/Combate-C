@@ -1,0 +1,26 @@
+					REGRAS
+
+
+* O jogador ganha a partida ao achar e capturar a bandeira inimiga.
+* Cada jogador move uma peça por turno. Ao atacar o oponente, as regras abaixo  determinarão o vencedor.
+* Para a maioria das peças, o maior numero ganha o ataque.
+* Quando ambas as peças tem o mesmo número, as duas perdem.
+
+
+					PEÇAS
+
+10 - Marechal(M) = Peça mais forte, perde apenas caso seja atacada pelo Espião ou atacar uma bomba
+
+3 - Cabo Armeiro(C) = pode desarmar bombas
+
+2 - Soldado(S) = pode se mover a qualquer distância em uma linha reta
+
+1 - Espião(E) = Pode ganhar do Marechal(M), porém perde para qualquer ataque
+
+Bomba(B) = Destroi qualquer peça exceto o Cabo Armeiro(C), não pode mover-se
+
+Bandeira(F) = Jogador perde o jogo caso capurada, não pode mover-se
+
+
+ATENÇÂO: FECHE ESTE ARQUIVO PARA CONTINUAR A EXECUÇÂO DO PROGRAMA!!
+
